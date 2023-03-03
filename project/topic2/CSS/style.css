@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	
+}
+
+input, button, textarea{
+	font-family: 'Poppins', sans-serif;
+}
+
+:root{
+	--primary: #dc3545;
+	--secondery: #841721;
+	--white: #ffffff;
+	--black: #000000;
+	--space15: 15px;
+	--textdark: #252b33;
+	--textlight: #4c4d4d;
+}
+
+ul, ol{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container{
+	max-width: 1140px;
+	margin: auto;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.justify-content-center{
+	justify-content: center;
+}
+
+.justify-content-between{
+	justify-content: space-between;
+}
+
+.align-self-center{
+	align-self: center;
+}
+
+.w25{
+	width: 25%;
+	padding: var(--space15);
+}
+
+.w33{
+	width: 33.3333%;
+	padding: var(--space15);
+}
+
+.w50{
+	width: 50%;
+	padding: var(--space15);
+}
+
+.w-100{
+	width: 100%;
+}
+
+header{
+	background-color: var(--white);
+}
+
+header ul li a{
+	display: block;
+	padding: 0 var(--space15);
+	color: var(--textdark);
+	line-height: 70px;
+	font-weight: 600;
+	transition: all 0.5s;
+}
+
+header ul li a:hover{
+	color: var(--primary);
+}
+
+header ul li:first-child a{
+	color: var(--primary);
+}
+
+header ul li:last-child a{
+	background-color: var(--primary);
+	color: var(--white);
+	line-height: 40px;
+	border-radius: 5px;
+}
+
+header ul li:last-child a:hover{
+	background-color: var(--secondery);
+}
+
+
+
+

@@ -1,0 +1,168 @@
+<html>
+<head>
+	<link href="images/favicon.png" rel="icon">	
+	<title> MAXapp </title>
+	<link href="css/all.css" rel="stylesheet" type="text/css">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<header>
+	<div class="container">
+		<div class="row justify-content-between">
+			<a href="index.html" class="align-self-center">
+				<img src="http://demo.harnishdesign.net/html/mxapp/images/logo.png" alt="MXapp" title="MXapp" />
+			</a>
+			<ul class="row align-self-center">
+				<li>
+					<a href="#">Home</a>
+				</li>
+				<li>
+					<a href="#">About</a>
+				</li>
+				<li>
+					<a href="#">Features</a>
+				</li>
+				<li>
+					<a href="#">Screenshot</a>
+				</li>
+				<li>
+					<a href="#">Testimonial</a>
+				</li>
+				<li>
+					<a href="#">Pricing</a>
+				</li>
+				<li>
+					<a href="#">Faq</a>
+				</li>
+				<li>
+					<a href="#">Contact Us</a>
+				</li>
+				<li class="align-self-center">
+					<a href="#">Download</a>
+				</li>
+			</ul>
+			
+			<section>
+	<div class="container">
+		<div class="row">
+			<div class="box1">
+			<h1>Your Mobile</h1><h2>App</h2><h1>Showcase</h1>
+			
+			<p>
+				Create your next mobile app landing page in minutes. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.
+			</p>
+			<center>
+			<img src="	http://demo.harnishdesign.net/html/mxapp/images/google-play-store.png"/>
+			
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app-store.png"/>
+			</div>
+			</center>
+			<div class="box2">
+			
+			<img src="	http://demo.harnishdesign.net/html/mxapp/images/app-showcase-2.png"/>
+			
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container1">
+		<div class="row">
+			<div class="box3">
+			
+			<h1>About Our App</h1>
+			<p>
+			You can present your app. It is all very easy!
+			</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section>
+	<div class="container1">
+		<div class="row">
+			<div class="box4">
+				<div class="box4a">
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/about-app-2.png"/>
+				</div>
+				
+				
+				
+					<div class="box5">
+						<div class="box5b">
+					<h3>Inspired Design for App Landing</h3>
+					<p>
+					Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. simply dummy text of the printing and typesetting industry quidam interesset his et.
+					</p>
+					<p>
+					Lorem Ipsum has been the industry's standard dummy text when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+					</p>
+					
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/app-store.png"/>
+					
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/google-play-store.png"/>
+					
+						</div>
+					</div>
+				
+				
+			</div>
+		</div>
+	</div>
+	
+</section>
+
+
+
+	<section class="bg-img2">
+	
+		<div class="box">
+			 
+				<div class="row">					
+						<div class="boxa">
+							<div class="boxa1">
+								<i class="fas fa-users"></i>								
+								<h1>120K</h1>
+								<h3>Happy Users</h3	>
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">						
+							<i class="fas fa-star-half-alt"></i>							
+								<h1>46K</h1>
+								<h3>Positive Ratings</h3>
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">
+							<i class="fas fa-download"></i>
+								<h1>125K</h1>
+								<h3>Total Download</h3>
+								
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">
+							<i class="fas fa-gem"></i>
+							<h1>58K</h1>
+								<h3>Premium Users</h3>
+								
+							</div>
+						</div>
+						
+						
+				</div>
+				
+		</div>
+		
+</section>
+			
+			
+		</div>
+	</div>
+</header>
+</body>
+</html>

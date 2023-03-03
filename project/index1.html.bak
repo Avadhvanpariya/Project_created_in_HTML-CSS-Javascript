@@ -1,0 +1,768 @@
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MXapp - App Page</title>
+	<link href="css/all.css"rel="stylesheet" type="text/css"/>
+	<link href="css/style.css" rel="stylesheet" type="text/css"/>
+	<link href="css/owl.carousel.css" rel="stylesheet" type="text/css"/>
+	<link href="css/owl.theme.default.css" rel="stylesheet" type="text/css"/>
+	<link href="images/favicon.png" rel="icon"/>
+</head>
+<body>
+
+<header>
+	<div class="containera">
+		<div class="row justify-content-between">
+			<div class="align-self-center">
+				<a href="index.html" alt="MXapp" title="MXapp">
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/logo.png"/></a>
+			</div>		
+			<ul class="row align-self-center">
+				<li>
+					<a href="#">Home</a>
+				</li>
+				<li>
+					<a href="#">About</a>
+				</li>
+				<li>
+					<a href="#">Features</a>
+				</li>
+				<li>
+					<a href="#">screenshot</a>
+				</li>
+				<li>
+					<a href="#">Testimonial</a>
+				</li>
+				<li>
+					<a href="#">Pricing</a>
+				</li>
+				<li>
+					<a href="#">Faq</a>
+				</li>
+				<li>
+					<a href="#">Contact Us</a>
+				</li>
+				<button type="submit">Download</button>
+			</ul>
+		</div>
+	</div>
+	
+</header>
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="box1">
+			
+			<h1>Your Mobile<span>App</span> Showcase</h1>
+			
+			<p align="justify">
+				Create your next mobile app landing page in minutes. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.
+			</p>
+			<center>
+			<img src="	http://demo.harnishdesign.net/html/mxapp/images/google-play-store.png"/>
+			
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app-store.png"/>
+			</div>
+			</center>
+			
+			<div class="box2">
+			
+			<img src="	http://demo.harnishdesign.net/html/mxapp/images/app-showcase-2.png"/>
+			
+		    </div>
+			
+		</div>
+	</div>
+		<div class="clearfix"></div>
+</section>
+
+<section>
+	<div class="container1">
+		<div class="row">
+			<div class="box3">
+				<h1>About Our App</h1>
+				<p>
+				You can present your app. It is all very easy!
+				</p>
+			</div>
+		</div>
+	
+		<div class="row">
+			<div class="box4">
+				<div class="box41">
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/about-app-2.png"/>
+				</div>
+				
+			</div>     
+			<div class="box5">
+				<div class="box51">
+						<h3>Inspired Design for App Landing</h3>
+						<p align="justify">
+						Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. simply dummy text of the printing and typesetting industry quidam interesset his et.
+						</p>
+						<p align="justify">
+						Lorem Ipsum has been the industry's standard dummy text when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+						</p>
+						
+						<img src="	http://demo.harnishdesign.net/html/mxapp/images/app-store.png"/>
+					
+					<img src="http://demo.harnishdesign.net/html/mxapp/images/google-play-store.png"/>
+				</div>
+				
+			</div>
+			
+			
+	</div>
+	</div>
+
+<div class="clearfix"></div>
+</section>
+
+
+<section  class="bg-img2">
+			
+		<div class="box">
+		
+			 <div class="container2">
+				<div class="row">					
+						<div class="boxa">
+							<div class="boxa1">
+								<i class="fas fa-users"></i>
+								<h4>120K</h4>
+								<h3>Happy Users</h3>
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">
+								<i class="fas fa-star-half-alt"></i>
+								<h4>46K</h4>
+								<h3>Positive Ratings</h3>
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">
+								<i class="fas fa-download"></i>
+								<h4>125K</h4>
+								<h3>Total Download</h3>
+							</div>
+						</div>
+						<div class="boxa">
+							<div class="boxa1">
+							    
+								<i class="fas fa-gem"></i>
+								<h4>58K</h4>
+								<h3>Premium Users</h3>
+							</div>
+						</div>
+				 </div>
+		    </div>
+		</div>
+		
+</section>
+
+<div class="clearfix"></div>
+
+<section>
+	<div class="containerA ">
+		<div class="page">
+				<h1 class="text-align">App's Features</h1>
+				<h3 class="text-align">You can present your app features. It is all very easy!</h3>
+<div class="row">	
+		<div class="app">
+			<div class="features text-right">
+				<ul class="row">
+					<li class="box80">
+				
+					<h2>Exclusive Design</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-pencil-ruler"></i>
+					</div>
+						</div>
+					</li>
+				</ul>
+				<ul class="row">
+					<li class="box80">
+				
+					<h2>Your Data in Cloud</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-cloud-upload-alt"></i>
+					</div>
+						</div>
+					</li>
+				</ul>
+				<ul class="row">
+					<li class="box80">
+				
+					<h2>Low Pricing</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-pencil-ruler"></i>
+					</div>
+						</div>
+					</li>
+				</ul>
+		
+			</div>
+		</div>
+		
+		<div class="app">
+			<div class="features text-align">
+				<img src="	http://demo.harnishdesign.net/html/mxapp/images/app-showcase-feature-2.png"/>
+			</div>
+		</div>
+		
+	
+		<div class="app">
+			<div class="features">
+				<ul class="row">
+					
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-lock"></i>
+					</div>
+						</div>
+					</li>
+					<li class="box80">
+				
+					<h2>Fully Secured</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+				</ul>
+				<ul class="row">
+					
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-paper-plane"></i>
+					</div>
+						</div>
+					</li>
+					<li class="box80">
+				
+					<h2>Easy to Use</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+				</ul>
+				<ul class="row">
+					
+					<li class="box20">
+						<div class="app">
+					<div class="features text-right">
+					<i class="fas fa-sync"></i>
+					</div>
+						</div>
+					</li>
+					<li class="box80">
+				
+					<h2>Free Updates</h2>
+					<p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.<p>
+					
+					</li>
+				</ul>
+		
+			</div>
+		</div>
+	
+			
+	
+			
+				
+</div>
+		
+		</div>
+		
+		
+		
+		
+	</div>	
+	</div>
+	</div>
+
+</section>
+
+
+
+<section class="slider">
+	<div class="containers">
+	
+	<h1 class="text-align">App's Features</h1>
+	<h3 class="text-align">You can present your app features. It is all very easy!</h3>
+	
+	<div class="owl-carousel owl-theme dhruv">
+    <div class="item">
+	
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-3.jpg"/>
+		</div>
+	</div>
+   <div class="item">
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-4.jpg"/>
+		</div>
+	</div>
+    <div class="item">
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-5.jpg"/>
+		</div>
+	</div>
+    <div class="item">
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-6.jpg"/>
+		</div>
+	</div>
+    <<div class="item">
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-7.jpg"/>
+		</div>
+	</div>
+   <div class="item">
+		<div class="slide100">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-1.jpg"/>
+		</div>
+	</div>
+	
+	<div class="item">
+		<div class="slide100">
+   <img src="http://demo.harnishdesign.net/html/mxapp/images/app/app-2.jpg"/>
+	</div>
+
+</div>
+	</div>
+
+
+</section>
+
+
+<section class="imgy">
+	<div class="box">
+		<div class="containery">
+			<h3 class="text-align">How it's Works? Play And Watch!</h3>
+			<p  class="text-align">View Promo</p>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="containerw">
+	
+	<h1 class="text-align">What Our Users Say’s</h1>
+	<h3 class="text-align">See what our happy Customer say about app. We are proud to have our users.</h3>
+	
+	<div class="owl-carousel owl-theme dhruv1">
+    <div class="item border">
+	<div class="w100 text-align ">
+		<i class="fa fa-quote-left"></i>
+		<p>
+		Easy to use, reasonably priced simply dummy text of the printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam possim iriure.”
+		</p>
+	</div>
+		<div class="what text-align">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/testimonial/client-sm-3.jpg"/>
+		</div>
+		<h4 class="text-align">Jay Shah</h4>
+		<h5 class="text-align">User from India</h5>
+	</div>
+	
+     <div class="item border">
+	<div class="w100 text-align">
+		<i class="fa fa-quote-left"></i>
+		<p>
+		Easy to use, reasonably priced simply dummy text of the printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam possim iriure.”
+		</p>
+	</div>
+		<div class="what">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/testimonial/client-sm-4.jpg"/>
+		</div>
+		<h4 class="text-align">Patrick Cary</h4>
+		<h5 class="text-align">User from USA</h5>
+		</div>
+		<div class="item border">
+	<div class="w100 text-align">
+		<i class="fa fa-quote-left"></i>
+		<p>
+		Easy to use, reasonably priced simply dummy text of the printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam possim iriure.”
+		</p>
+	</div>
+		<div class="what">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/testimonial/client-sm-1.jpg"/>
+		</div>
+		<h4 class="text-align">Patrick Cary</h4>
+		<h5 class="text-align">User from USA</h5>
+	</div>
+     <div class="item border">
+	<div class="w100 text-align">
+		<i class="fa fa-quote-left"></i>
+		<p>
+		Easy to use, reasonably priced simply dummy text of the printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam possim iriure.”
+		</p>
+	</div>
+		<div class="what">
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/testimonial/client-sm-2.jpg"/>
+		</div>
+		<h4 class="text-align">Chris Tom</h4>
+		<h5 class="text-align">User from UK</h5>
+	</div>
+   
+</div>
+</section>	
+<script src="js/jquery.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script>
+$('.dhruv').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+</script>
+	
+
+<script>
+$('.dhruv1').owlCarousel({
+    loop:true,
+    margin:30,
+    nav:true,
+
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:2
+        }
+    }
+})
+</script>
+
+
+<section class="color">
+	<div class="containerp">
+	
+	<h1 class="text-align">Pricing Plan</h1>
+	<h3 class="text-align">You can present your app pricing plan here!</h3>
+		<div class="row">
+			<div class="plan">
+				<div class="w100">
+					<h2 class="text-align">Basic</h2>
+					<h3 class="text-align">Free</h3>
+					<div class="monthly text-align">
+						<p>Monthly</p>
+					</div>
+					
+					<ul>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Fully Responsive</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Dedicated Support</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Clean and Modern Design</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Simple and Professional</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">24/7 Support</h6>
+						<hr/>
+						</li>
+						<li>
+						<center>
+						<h5 class="text-align">START NOW</h5>
+						</center>
+						</li>
+					</ul>	
+					
+				</div>
+			</div>
+			
+			<div class="plan">
+				<div class="w100">
+					<h2 class="text-align">Advance</h2>
+					<h3 class="text-align">$9.99</h3>
+					<div class="monthly text-align">
+						<p>Monthly</p>
+					</div>
+					
+					<ul>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Fully Responsive</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Dedicated Support</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Clean and Modern Design</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Simple and Professional</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">24/7 Support</h6>
+						<hr/>
+						</li>
+						<li>
+						<center>
+						<h5 class="text-align">START NOW</h5>
+						</center>
+						</li>
+					</ul>	
+					
+				</div>
+			</div>
+			
+			<div class="plan">
+				<div class="w100">
+					<h2 class="text-align">Standard</h2>
+					<h3 class="text-align">$19.99</h3>
+					<div class="monthly text-align">
+						<p>Monthly</p>
+					</div>
+					
+					<ul>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Fully Responsive</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Dedicated Support</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Clean and Modern Design</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Simple and Professional</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">24/7 Support</h6>
+						<hr/>
+						</li>
+						<li>
+						<center>
+						<h5 class="text-align">START NOW</h5>
+						</center>
+						</li>
+					</ul>	
+					
+				</div>
+			</div>
+			
+			<div class="plan">
+				<div class="w100">
+					<h2 class="text-align">Premium</h2>
+					<h3 class="text-align">$29.99</h3>
+					<div class="monthly text-align">
+						<p>Monthly</p>
+					</div>
+					
+					<ul>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Fully Responsive</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Dedicated Support</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Clean and Modern Design</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">Simple and Professional</h6>
+						<hr/>
+						</li>
+						<li>
+							<i class="fas fa-check"></i>
+							<h6 class="text-align">24/7 Support</h6>
+						<hr/>
+						</li>
+						<li>
+						<center>
+						<h5 class="text-align">START NOW</h5>
+						</center>
+						</li>
+					</ul>	
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section class="imgred">
+	<div class="boxcolor">
+		<div class="containeryred text-align">
+			<h1 class="text-align">Get the App</h1>
+			<h3 class="text-align">Download our app! Join over 500,000 people already using Our App.</h3>
+			
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/app-store.png"/>
+			<img src="http://demo.harnishdesign.net/html/mxapp/images/google-play-store.png"/>
+		</div>
+	</div>
+</section>
+
+
+
+<section>
+	<div class="containerw">
+		<h1 class="text-align">Frequently Asked Questions</h1>
+		<h3 class="text-align">You can present your app FAQ here!</h3>
+	</div>
+	<center>
+	<hr width="843" height="1" />
+	</center>
+	
+	<div class="text">
+		<ul class="row"> 
+			<li class="box90"><a href="#">What is MXapp</a></li>	
+			<li class="box10"><i class="fas fa-chevron-down"></i></li>
+		</ul>
+		<ul>
+		<li class="box90"><p>Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Mutat tacimates id sit. Ridens mediocritatem ius an, eu nec magna imperdiet. Craft beer labore wes anderson cred nesciunt sapiente ea proident.</p></li>
+		</ul>
+	
+	<hr/>
+	
+		<ul class="row"> 
+			<li class="box90"><h2>How Can I Help You?</h2></li>	
+			<li class="box10"><i class="fas fa-chevron-down"></i></li>
+		</ul>
+	
+	<hr/>
+	
+		<ul class="row"> 
+			<li class="box90"><h2>Is my data safe with App Showcase?</h2></li>	
+			<li class="box10"><i class="fas fa-chevron-down"></i></li>
+		</ul>
+
+	<hr/>
+
+		<ul class="row"> 
+			<li class="box90"><h2>How much fees does App Showcase?</h2></li>	
+			<li class="box10"><i class="fas fa-chevron-down"></i></li>
+		</ul>
+	
+	<hr/>
+
+	<ul class="row"> 
+			<li class="box90"><h2>Why app showcase one page template?</h2></li>	
+			<li class="box10"><i class="fas fa-chevron-down"></i></li>
+	</ul>
+	<hr/>
+	
+
+	<ul>
+		<li class="row"><h6>Can't find it here?</h6><a href="#">Tell us your query here.</a></li>
+	</ul>
+	</div>
+		
+	
+</section>
+
+<section class="news">
+	<div class="boxcolor">
+		<div class="subscribe">
+			<h1 class="text-align">Subscribe to Newsletter</h1>
+			<h3 class="text-align">Subscribe to receive latest news, new features and updates.</h3>
+			<center>
+			<input placeholder="Your E-Mail address"/>
+			<button type="submit">Subscribe</button>
+			</center>
+		</div>
+	</div>
+</section>
+
+
+
+		
+		
+</body>
+</html>
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			 

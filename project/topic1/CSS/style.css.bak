@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	outline:0;
+}	
+
+.container{
+	max-width:1140px;
+	margin: auto;
+}
+
+:root{
+	--primary: #F68E27 ;
+	--secondery: #37C015;
+	--white: #ffffff;
+	--black: #000000;
+	--space15: 15px;
+}
+
+body{
+	font-family: 'Jost', sans-serif;
+}
+
+input, button, textarea{
+	font-family: 'Jost', sans-serif;
+}
+
+
+ul ,ol {
+	list-style:none;
+}
+
+.row{
+	display:flax;
+	flax-wrep:wrep;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.justify-contant-center{
+	justify-contant:center;
+}
+
+.justify-contant-between{
+	justify-content:space-between;
+}
+
+.align-self-center{
+	align-self:center;
+}
+
+.w25{
+	width:25%;
+	padding: var(--space15);
+}
+
+
+.w33{
+	width: 33.3333%;
+	padding: var(--space15);
+}
+
+.w50{
+	width:50%;
+	padding: var(--space15);
+}
+
+.w-100{
+	width: 100%;
+}
+
+
+h1{
+	color: var(--primary);
+}
+
+p{
+	padding: var(--space15) 0;
+}
+
+button{
+	background-color: transparent;
+	color: var(--primary);
+	padding: 10px var(--space15);
+	border: 1px solid var(--primary);
+}
+
+button:hover{
+	background-color: var(--primary);
+	color: var(--white);
+}
+
+h2{
+	color: var(--secondery);
+	padding-top: var(--space15);
+}
